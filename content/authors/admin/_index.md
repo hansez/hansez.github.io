@@ -10,7 +10,7 @@ first_name: Hansen
 last_name: Zhang
 
 # Status emoji
-status: ''
+status: 
   icon: 🍁
 
 # Is this the primary user of the site?
