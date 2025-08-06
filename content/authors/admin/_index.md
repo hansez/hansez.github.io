@@ -3,7 +3,7 @@
 title: Hansen Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Hansen
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/hansez
   - icon: brands/linkedin
-    url: www.linkedin.com/in/hansez/
+    url: www.linkedin.com/in/hansez
 
 interests:
   - Statistics & Biostatistics
