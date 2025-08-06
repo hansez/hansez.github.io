@@ -59,7 +59,7 @@ education:
   - area: MS Statistics
     institution: University of Washington
     date_start: 2025-09-23
-    date_end: Current
+    date_end:
     summary: |
       Advanced Methods & Data Science degree offered by the Statistics Department at the University of Washington. I intend my electives to be tailored with a statistical genetics bent with the addition of topics such as measure theory and advanced probability.
 
