@@ -55,7 +55,7 @@ education:
       GPA: 3.85/4.0
     button:
       text: 'Read Thesis'
-      url: workspaces/hansez.github.io/static/uploads/thesis.pdf
+      url: /workspaces/hansez.github.io/static/uploads/thesis.pdf
   - area: MS Statistics
     institution: University of Washington
     date_start: 2025-09-23
