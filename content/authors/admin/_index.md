@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/hansez
   - icon: brands/linkedin
-    url: www.linkedin.com/in/hansez
+    url: https://www.linkedin.com/in/hansez
 
 interests:
   - Statistics & Biostatistics
@@ -55,7 +55,7 @@ education:
       GPA: 3.85/4.0
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: uploads/thesis.pdf
   - area: MS Statistics
     institution: University of Washington
     date_start: 2025-09-23
