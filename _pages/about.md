@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Department of Statistics | University of  Washington
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Seattle, WA</p>
+    <p>      Seattle, WA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
