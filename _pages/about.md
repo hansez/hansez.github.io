@@ -28,6 +28,6 @@ Hello! Welcome to my page. I'm Hansen--a first year Masters student in the Unive
 
 I majored in statistics with honors as an undergraduate at the UW aswell. My honors thesis is titled Estimating Relative Risk, advised by [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php).
 
-I am passionate about theory that are motivated by real world problems. Generally, the topics that interest me include statistical & population genetics, epidemiology, causal inference and estimation theory. But my journey is only beginning, so feel free to contact me with interesting conversation, new topics or fun opportunities!
+I am passionate about theory that are motivated by real world problems. Generally, the topics that interest me include statistical & population genetics, epidemiology, causal inference and estimation theory. But my journey is only beginning, so feel free to contact me with interesting conversation, new topics or fun opportunities (serious invitation)!
 
 
