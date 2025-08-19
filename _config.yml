@@ -182,6 +182,7 @@ exclude:
   - _pages/about_einstein.md
   - purgecss.config.js
   - vendor
+  - _posts/2024-01-27-advanced-images.md
 keep_files:
   - CNAME
   - .nojekyll
