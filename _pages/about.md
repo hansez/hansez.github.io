@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="text-align: right;">Seattle, WA</p>
+    <div style="display:block; width:150px; margin-left:auto; text-align:right;">
+      Seattle, WA
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
