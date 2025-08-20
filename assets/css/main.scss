@@ -23,3 +23,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* Hide the Cmd/Ctrl-K hint next to the search icon */
+header .shortcut-key { display: none !important; }
+
+
