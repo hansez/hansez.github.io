@@ -3,6 +3,8 @@
   contents:
     - name: Name
       value: Hansen Zhang
+    - name: Label
+      value: Graduate Student
     - name: Email
       value: hansez@uw.edu
 
@@ -17,3 +19,5 @@
       institution: University of Washington
       location: Seattle, WA
       year: 2021/09-2025/06
+      description: 
+        - Honors [Thesis](assets/pdf/thesis.pdf) advised by [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php)
