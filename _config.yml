@@ -183,6 +183,7 @@ exclude:
   - purgecss.config.js
   - vendor
   - _posts/2024-01-27-advanced-images.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
