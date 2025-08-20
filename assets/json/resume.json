@@ -1,13 +1,16 @@
 {
   "basics": {
     "name": "Hansen Zhang",
-    "label": "AMDS MS Student",
+    "label": "Graduate Student",
     "image": "",
     "email": "hansez@uw.edu",
-    "summary": "A first-year Advanced Methods and Data Science (AMDS) Masters student in the University of Washington Department of Statistics",
+    "summary": "A first-year Masters student in the University of Washington Department of Statistics",
     "location": {
+      "address":,
+      "postalCode":,
       "city": "Seattle",
-      "region": "WA"
+      "countryCode":,
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -17,12 +20,14 @@
       }
     ]
   },
+  "work": [],
+  "volunteer": [],
   "education": [
     {
       "institution": "University of Washington",
       "location": "Seattle, WA",
       "url": "https://www.washington.edu/",
-      "area": "Advanced Methods & Data Science (Statistics)",
+      "area": "Advanced Methods & Data Science",
       "studyType": "MS",
       "startDate": "2021-09-01",
       "endDate":,
@@ -33,7 +38,7 @@
       "location": "Seattle, WA",
       "url": "https://www.washington.edu/",
       "area": "Statistics",
-      "studyType": "BSc Honors",
+      "studyType": "BSc",
       "startDate": "2021-09-01",
       "endDate": "2025-06-01",
       "score": "10"
@@ -61,95 +66,42 @@
       "date": "2024-06-23",
       "issuer": "Johns Hopkins University (Coursera)",
       "url": "https://coursera.org/share/70022e59a4925c3bc68cc102293776cc",
-      "icon": "coursera.png"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Bioconductor for Genomic Data Science",
       "date": "2024-08-21",
       "issuer": "Johns Hopkins University (Coursera)",
       "url": "https://coursera.org/share/89fe72649c90b018337fdfe1e6c824f9",
-      "icon": "coursera.png"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Algorithms for DNA Sequencing",
       "date": "2024-08-10",
       "issuer": "Johns Hopkins University (Coursera)",
       "url": "https://coursera.org/share/a62cb8e5dcde821982c3b89e6c4ac85d",
-      "icon": "coursera.png"
+      "icon": "fa-solid fa-envelope"
     },
     {
       "name": "Python for Genomic Data Science",
       "date": "2024-08-08",
       "issuer": "Johns Hopkins University (Coursera)",
       "url": "https://coursera.org/share/62fae2070c2a39f2e1afbe4ca48eb85b",
-      "icon": "coursera.png"
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "publications": [
     {
-      "name": ""
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Stay Tuned!",
+      "publisher":,
+      "releaseDate":,
+      "url":,
+      "summary":
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
