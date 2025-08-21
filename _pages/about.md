@@ -26,6 +26,6 @@ latest_posts:
 
 Howdy! Welcome to my page. I'm Hansen, a first-year Masters student in the [Department of Statistics](https://stat.uw.edu/) at the University of Washington.
 
-I also completed my BS degree with honors at the University of Washington. My senior [thesis](../assets/pdf/thesis.pdf) is titled _Estimating Relative Risk_ and was advised by [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php).
+I also completed my BS degree in statistics with honors at the University of Washington. My senior [thesis](../assets/pdf/thesis.pdf) is titled _Estimating Relative Risk_ and was advised by [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php).
 
-I am passionate about theory that are motivated by real world problems. Generally, the topics that interest me include statistical & population genetics, epidemiology, causal inference and estimation theory. But my journey is only beginning, so don't hesitate to contact me with interesting conversation, new topics or fun opportunities!
+I'm passionate about theory that is motivated by real world problems. The topics that generally interest me include statistical & population genetics, epidemiology, causal inference and estimation theory. My journey into the world of statistics is just beginning, so don't hesitate to contact me with interesting conversation, new topics or fun opportunities!
