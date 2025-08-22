@@ -161,13 +161,6 @@ html[data-theme-setting="light"] {
 }
 
 // custom settings; changes lavender text to green text in dark mode
-.color-dynamic {
-  color: $lavender-color;
-}
+.text-accent { color: var(--global-theme-color); }
 
-@media (prefers-color-scheme: dark) {
-  .color-dynamic {
-    color: $pale-green;
-  }
-}
 
