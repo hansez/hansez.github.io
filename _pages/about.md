@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Statistics | <span style="color-dynamic"><b>University of Washington</b></span>
+subtitle: Department of Statistics | <span class="text-accent"><b>University of Washington</b></span>
 
 profile:
   align: right
@@ -33,4 +33,4 @@ I'm passionate about theory motivated by real world problems. The topics that ge
 <hr>
 
 <span style="color:#bebebe">The best way to reach me is at:</span>
-<i class="ti ti-inbox" style="color:#c5b4e3"></i> <span style="color-dynamic"><b>hansez{at}uw.edu</b></span> 
+<i class="ti ti-inbox" class="text-accent"></i> <span class="text-accent"><b>hansez{at}uw.edu</b></span> 
