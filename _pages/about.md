@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Statistics | <span style="color:#c5b4e3"><b>University of Washington</b></span>
+subtitle: Department of Statistics | <span style="color:#4b2e83"><b>University of Washington</b></span>
 
 profile:
   align: right
