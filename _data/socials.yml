@@ -8,20 +8,21 @@
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: hansez@uw.edu # your email address
+linkedin_username: hansez
+github_username: hansez
+instagram_id: hansen.zhang9952
+spotify_id: hansen9952
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: hansez
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: hansen.zhang9952
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: hansez
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -34,7 +35,6 @@ linkedin_username: hansez
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
-spotify_id: hansen9952
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
 # telegram_username: # your Telegram user name
