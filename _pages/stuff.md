@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: stuff
 permalink: /stuff/
 nav: true
