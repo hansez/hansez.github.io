@@ -1,4 +1,5 @@
-layout: stuff
+layout: default
 title: stuff
 permalink: /stuff/
+nav: true
 nav_order: 3
