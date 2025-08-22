@@ -19,6 +19,10 @@
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
+        {% elsif content[0] == 'location' %}
+          <span class="cv-location">
+            {{ content[1].city }}, {{ content[1].region }}
+          </span>
         {% else %}
           {{ content[1] }}
         {% endif %}
