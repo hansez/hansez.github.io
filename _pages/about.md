@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Howdy! Welcome to my page. I'm Hansen, a first-year Masters student in the <a href="https://stat.uw.edu/"><strong>Department of Statistics</strong></a> at the University of Washington.
+Howdy! Welcome to my page. I'm Hansen, a first-year Masters student in the <a href="https://stat.uw.edu/"><strong>Department of Statistics</strong></a>.
 
 I also completed my BS degree in statistics with honors at the University of Washington. My senior <a href=../assets/pdf/thesis.pdf><strong>thesis</strong></a> is titled _Estimating Relative Risk_ and was advised by <a href="https://sites.stat.washington.edu/tsr/website/inquiry/home.php"><strong>Thomas Richardson</strong></a>.
 
