@@ -101,7 +101,7 @@
   "interests": [
     {
       "name": "Statistics & Probability",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-feather-pointed",
       "keywords": [
         "statistical & population genetics",
         "epidemiology",
@@ -109,6 +109,18 @@
         "estimation theory",
         "optimization",
         "stochastic processes"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-otter",
+      "keywords": [
+        "my cat",
+        "track",
+        "running",
+        "cooking",
+        "sunshine",
+        "organization"
       ]
     }
   ],
