@@ -20,9 +20,7 @@
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
         {% elsif content[0] == 'location' %}
-          <span class="cv-location">
-            {{ content[1].city }}, {{ content[1].region }}
-          </span>
+          {{ content[1].city }}, {{ content[1].region }}
         {% else %}
           {{ content[1] }}
         {% endif %}
