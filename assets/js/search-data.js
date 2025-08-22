@@ -437,6 +437,13 @@ ninja.data = [{
           window.open("mailto:%68%61%6E%73%65%7A@%75%77.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/hansez", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -449,13 +456,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://instagram.com/hansen.zhang9952", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/hansez", "_blank");
         },
       },{
         id: 'social-spotify',
