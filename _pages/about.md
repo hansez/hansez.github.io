@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Statistics | <span style="color:#c5b4e3">University of Washington</span> 
+subtitle: Department of Statistics | <span style="color:#c5b4e3"><b>University of Washington</b></span>
 
 profile:
   align: right
@@ -29,3 +29,8 @@ Howdy! Welcome to my page. I'm Hansen, a first-year Masters student in the [Depa
 I also completed my BS degree in statistics with honors at the University of Washington. My senior [thesis](../assets/pdf/thesis.pdf) is titled _Estimating Relative Risk_ and was advised by [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php).
 
 I'm passionate about theory that is motivated by real world problems. The topics that generally interest me include statistical & population genetics, epidemiology, causal inference and estimation theory. My journey into the world of statistics is just beginning, so don't hesitate to contact me with interesting conversation, new topics or fun opportunities!
+
+<hr>
+
+The best way to reach me is at:  
+<span style="color:#c5b4e3"><b>hansez{at}uw.edu</b></span> <i class="ti ti-inbox"></i>
