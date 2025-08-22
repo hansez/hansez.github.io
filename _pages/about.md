@@ -33,5 +33,4 @@ I'm passionate about theory that is motivated by real world problems. The topics
 <hr>
 
 <span style="color:#bebebe">The best way to reach me is at:</span>
-
-<i class="ti ti-inbox"></i> <span style="color:#c5b4e3"><b>hansez{at}uw.edu</b></span> 
+<i class="ti ti-inbox" style="color:#c5b4e3"></i> <span style="color:#c5b4e3"><b>hansez{at}uw.edu</b></span> 
